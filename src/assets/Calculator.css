@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,500,700,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+body{
+	padding: 3% 0;
+	width: 100%;
+	height: 100%;
+	font-size: 1rem;
+	line-height: 1.5;
+	font-family: 'Roboto', sans-serif;
+	color: #222;
+}
+.container{
+	width: 100%;
+}
+
+.form-wrap{
+	background: #E7E4E9;
+	width: fit-content;
+	max-width: 80%;
+	height: fit-content;
+    min-height: 70%;
+	margin: 0 auto;
+	position: relative;
+	-webkit-border-radius: 15px;
+	-moz-border-radius: 15px;
+	border-radius: 25px;
+}
+
+.bckimg-color{
+	background-color: #D9DBDC;
+}
+
+.bckimg{
+	max-width: auto !important;
+	width: fit-content;
+	padding: 0;
+	height:100%;
+	border-radius: 15px;
+}
+
+.btn-backgroundcolor, .main-style{
+	background-color: #29384C !important;
+}
+
+.main-header-textstyle{
+    color: #29384C;
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+.result-background{
+    background-color: #00A5C1 !important;
+}
+
+  /* Small screens */
+  @media only screen and (max-width: 992px) {
+	body {
+		background: url(../assets/background-sm.svg); 
+		background-position: center;
+		background-repeat: no-repeat;
+		background-size: cover;
+	}
+  }
+
+    /* Medium screens */
+	@media only screen and (min-width: 992px) and (max-width: 3000px) {
+		body {
+			background: url(../assets/background-md.svg); 
+			background-position: center;
+			background-repeat: no-repeat;
+			background-size: cover;
+		}
+	  }
+
+	   /* Extra Large screens */
+	@media only screen and (min-width: 3000px){
+		body {
+			background: url(../assets/background-lg.svg); 
+			background-position: center;
+			background-repeat: no-repeat;
+			background-size: cover;
+		}
+	  }
+
