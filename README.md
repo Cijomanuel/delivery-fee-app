@@ -1,7 +1,8 @@
 <h1>Delivery Fee Application</h1>
 <p>Delivery Fee Application is a web application implemented on behalf of **Wolt Summer 2024 Engineering Internships** assessment. This project is  implemented using React and TypeScript..</p>
 <h2>General Information</h2>
-<p>For more details about the project, please visit : https://github.com/woltapp/engineering-internship-2024</p>
+<p>For more details about the project, please visit: https://github.com/woltapp/engineering-internship-2024</p>
+<p>For Demonstration, please visit: https://delivery-fee-app-cijo.netlify.app/</p>
 <h2>Technologies Used</h2>
 <ul>
 <li>ReactJS</li>
