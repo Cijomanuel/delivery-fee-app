@@ -29,7 +29,10 @@
 <h5>Code Examples</h5>
 <ul>
 <li>To run this project in your device, download the repository and open terminal in your editor and run command...</li>
-</ul><p><code style="margin-left:40px">npm start</code></p>
+</ul>
+<p><code style="margin-left:40px">npm install</code></p>
+<p><i>After installation, run command...</i></p>
+<p><code style="margin-left:40px">npm start</code></p>
 <ul>
 <li>To test this project in your device, open terminal in your editor and run command...</li>
 </ul><p><code style="margin-left:40px">npm test</code></p>
