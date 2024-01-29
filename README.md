@@ -1,46 +1,45 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+<h1>Delivery Fee Application</h1>
+<p>Delivery Fee Application is a web application implemented on behalf of **Wolt Summer 2024 Engineering Internships** assessment. This project is  implemented using React and TypeScript..</p>
+<h2>General Information</h2>
+<p>For more details about the project, please visit : https://github.com/woltapp/engineering-internship-2024</p>
+<h2>Technologies Used</h2>
+<ul>
+<li>ReactJS</li>
+</ul><ul>
+<li>Typescript</li>
+</ul><ul>
+<li>HTML</li>
+</ul><ul>
+<li>CSS</li>
+</ul><ul>
+<li>JavaScript</li>
+</ul><ul>
+<li>AdobeXD</li>
+</ul>
+<h2>Screenshots</h2>
+<p><img style="width:50%; border:5px solid black" src="https://github.com/Cijomanuel/delivery-fee-app/blob/master/README_Images/website-img-1.jpg" alt=""></p><p><img style="width:50%; border:5px solid black" src="https://github.com/Cijomanuel/delivery-fee-app/blob/master/README_Images/website-img-2.jpg" alt=""></p>
+<h2>Setup</h2>
+<p>Followig are the requirements to run this project:</p><ul>
+<li>Node Package Manager (NPM)</li>
+</ul><ul>
+<li>React + TS</li>
+</ul><h2>Usage</h2>
+<p>You can use this application to compute the delivery fee based on the user input.</p>
+<h5>Code Examples</h5>
+<ul>
+<li>To run this project in your device, download the repository and open terminal in your editor and run command...</li>
+</ul><p><code style="margin-left:40px">npm start</code></p>
+<ul>
+<li>To test this project in your device, open terminal in your editor and run command...</li>
+</ul><p><code style="margin-left:40px">npm test</code></p>
+<h2>Project Status</h2>
+<p>Completed and submitted for evaluation.</p>
+<h2>Improvements and Features that can be added</h2>
+<ul>
+<li>A report can be generated based on the user input, and it can contain information about, how the fee is calculated.</li>
+</ul><ul>
+<li>Can be modified into a Multilingual Website.</li>
+</ul><ul>
+<li>A Website Information tooltip can be introduced.</li>
+</ul><h2>Contact</h2>
+<p><span style="margin-right: 30px;"></span><a href="https://www.linkedin.com/in/cijo-manuel/" style="margin-right:200px;"><img target="_blank" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="width: 5%;"></a><a href="https://github.com/Cijomanuel/"><img target="_blank" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="width: 5%;"></a></p>
