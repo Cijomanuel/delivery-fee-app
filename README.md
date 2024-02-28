@@ -15,7 +15,7 @@
 </ul><ul>
 <li>JavaScript</li>
 </ul><ul>
-<li>AdobeXD</li>
+<li>AdobeXD (For UI Implementation)</li>
 </ul>
 <h2>Screenshots</h2>
 <p><img style="width:50%; border:5px solid black" src="https://github.com/Cijomanuel/delivery-fee-app/blob/master/README_Images/website-img-1.jpg" alt=""></p><p><img style="width:50%; border:5px solid black" src="https://github.com/Cijomanuel/delivery-fee-app/blob/master/README_Images/website-img-2.jpg" alt=""></p>
